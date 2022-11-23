@@ -89,3 +89,21 @@ padding: 20px;
 font-size: 110%;
 }
 
+.sideright-image {
+ 
+width:300px;
+float: right;
+clear:right;
+ 
+border-radius: 5px;
+margin-left:10px; margin-right:10px; margin-top:0px; margin-bottom:10px;
+-moz-transition: opacity 1s ease-in-out;
+-webkit-transition: opacity 1s ease-in-out;
+max-width:1999%;
+max-hieght:1999%; 
+
+}
+
+
+
+
